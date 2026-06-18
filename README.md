@@ -46,7 +46,7 @@ Desarrollador Full Stack y Analista Programador (Ingeniería en Informática, IN
 **🏥 QuirúrgicaPro** — Sistema de gestión de pabellones quirúrgicos *(en producción)*
 Gestión de cirugías, agendamiento y notificaciones automatizadas. Incluye Row Level Security, registros de auditoría, protección CSRF e integración con WhatsApp Business API.
 `React` `TypeScript` `Supabase` `PostgreSQL` `Docker` `CI/CD`
-🔗 [Demo](https://TU-DEPLOY.vercel.app) · [Código](https://github.com/champye1/quirurgicapro)
+🔗 [Demo](https://clinica-unico.pages.dev) · [Código](https://github.com/champye1/clinica_unico)
 
 **💈 BarberMonkey** — Web app de reservas para barbería *(cliente real)*
 Landing page, agendamiento online con disponibilidad en tiempo real, confirmaciones por WhatsApp y panel de administración.
