@@ -1,85 +1,78 @@
-# 👨‍💻 Esteban Venegas
+<h1 align="center">Hola, soy Esteban 👋</h1>
+<h3 align="center">Full Stack Developer · React · TypeScript · Supabase</h3>
 
-Hola, soy **Esteban Venegas**, recientemente egresado de la carrera **Analista Programador**. Me apasiona el desarrollo de software y la tecnología, y constantemente busco aprender y crecer profesionalmente en el ámbito de la programación.
-Actualmente estoy en búsqueda de oportunidades para aplicar mis conocimientos, seguir desarrollando habilidades y aportar en proyectos desafiantes.
-
----
-
-## 🛠 Tecnologías que utilizo
-
-- 💻 **Lenguajes de Programación:**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-
-- 🌐 **Frontend:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-- 🗃️ **Backend y Bases de Datos:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-- ⚙️ **Herramientas y Entornos:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
-  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  📍 Viña del Mar, Chile · Abierto a remoto, híbrido y reubicación
+</p>
 
 ---
 
-## 📂 Proyectos Destacados
+### 🚀 Sobre mí
 
-### 📌 Tregua proyecj
-📁 Proyecto: Sistema de Gestión de Reservas
-Aplicación web desarrollada como proyecto universitario con un enfoque real y aplicable al entorno profesional. Su objetivo principal fue permitir la gestión eficiente de reservas para salas, recursos o espacios, orientado a ser un restaurant mas profesional y llamativo.
+Desarrollador Full Stack y Analista Programador (Ingeniería en Informática, INACAP). Construyo aplicaciones web completas, desde la base de datos hasta la interfaz, con foco en código mantenible y despliegues reales en producción.
 
-🧩 Frontend: React.js
-🔥 Base de datos y backend: Firebase (Authentication, Firestore, Hosting)
-📲 Características principales: Registro y autenticación de usuarios, gestión de reservas, panel administrativo y notificaciones en tiempo real.
-📈 Enfoque práctico: Proyecto diseñado para ser fácilmente escalable e implementado en entornos reales.
-
-### 📌 Tazacarpeta  – Práctica Profesional
-Proyecto desarrollado durante mi práctica profesional, enfocado en la creación de una aplicación web y móvil orientada a la gestión de contenidos y funcionalidades internas para usuarios.
-
-💻 WebApp: Desarrollo de una interfaz funcional y adaptable para gestión y visualización de información.
-
-🛢️ Base de datos: Supabase (estructura, relaciones, autenticación y almacenamiento de datos).
-
-📱 Aplicación móvil: Creación de una app multiplataforma utilizando FlutterFlow, permitiendo una experiencia ágil e intuitiva para los usuarios finales.
-
-🎨 Diseño visual: Se priorizó una estética moderna, clara y coherente, centrada en la usabilidad.
-
-🚀 Aplicación real: Proyecto orientado a ser implementado directamente en un entorno de producción, fortaleciendo habilidades prácticas y metodologías profesionales.
-
-
+- 🏥 Desarrollé **QuirúrgicaPro**, un sistema de gestión quirúrgica **en producción**
+- 🛠️ Trabajo con React 18, TypeScript, Supabase, PostgreSQL, Docker y CI/CD
+- 📚 Profundizando en testing automatizado y arquitectura cloud
+- 💬 Español (nativo) · Inglés (intermedio)
 
 ---
 
-## 📫 Conecta conmigo
+### 🧰 Stack principal
 
-📧 **Correo Gmail:** [estebanv144@gmail.com](mailto:estebanv144@gmail.com)  
-📧 **Correo Outlook:** [este.veneg.ju01@outlook.cl](mailto:este.veneg.ju01@outlook.cl)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/esteban-venegas-b06131281/](https://www.linkedin.com/in/esteban-venegas-b06131281/)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Bases de Datos**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**DevOps & Herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
+
+### 📌 Proyectos destacados
+
+**🏥 QuirúrgicaPro** — Sistema de gestión de pabellones quirúrgicos *(en producción)*
+Gestión de cirugías, agendamiento y notificaciones automatizadas. Incluye Row Level Security, registros de auditoría, protección CSRF e integración con WhatsApp Business API.
+`React` `TypeScript` `Supabase` `PostgreSQL` `Docker` `CI/CD`
+🔗 [Demo](https://TU-DEPLOY.vercel.app) · [Código](https://github.com/champye1/quirurgicapro)
+
+**💈 BarberMonkey** — Web app de reservas para barbería *(cliente real)*
+Landing page, agendamiento online con disponibilidad en tiempo real, confirmaciones por WhatsApp y panel de administración.
+`React` `TypeScript` `Vite` `Supabase` `Tailwind`
+🔗 [Código](https://github.com/champye1/barbermonkey)
+
+**🔌 REST API** — API con Node.js, Express y JWT
+13+ endpoints documentados con Swagger, autenticación con tokens y buenas prácticas REST.
+`Node.js` `Express` `JWT` `Swagger`
+🔗 [Código](https://github.com/champye1)
+
+**📊 CRUD Angular** — Sistema de gestión de empleados
+Aplicación de administración con operaciones CRUD completas.
+`Angular` `TypeScript`
+🔗 [Código](https://github.com/champye1)
+
+---
+
+### 📜 Certificaciones
+- **Power BI** — Santander Open Academy
+- **Python Data Science** — Santander Open Academy
+- **Python Essentials 1** — Cisco
+
+---
+
+### 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-venegas-b06131281/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanv144@gmail.com)
